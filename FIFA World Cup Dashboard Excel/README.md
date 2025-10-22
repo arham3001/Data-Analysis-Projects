@@ -86,5 +86,5 @@ This project also serves as a **data portfolio example** demonstrating skills in
 
 ---
 ## Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
