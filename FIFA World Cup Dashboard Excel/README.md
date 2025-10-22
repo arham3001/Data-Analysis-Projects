@@ -83,3 +83,8 @@ Visual elements include:
 ## Conclusion
 The **FIFA Key Insights Dashboard** offers an interactive exploration of the **World Cup’s historical landscape**—champions, goals, and hosts.  
 This project also serves as a **data portfolio example** demonstrating skills in **data cleaning, pivot analysis, and Excel visualization design**.
+
+---
+## Preview
+![Dashboard Preview](dashboard.png)
+
